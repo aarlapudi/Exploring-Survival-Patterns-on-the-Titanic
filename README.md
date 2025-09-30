@@ -53,7 +53,9 @@ cd Exploring-Survival-Patterns-on-the-Titanic
 
 Install dependencies (if not already installed)
 
-pip install pandas numpy matplotlib seaborn jupyter
+pip install pandas as pd
+pip install  matplotlib.pyplot as plt
+pip install seaborn as sns in jupyter
 
 
 Open the Jupyter Notebook
