@@ -43,7 +43,7 @@ Heatmap – Correlation matrix of numerical variables
 
 Clone the repository
 
-git clone https://github.com/yourusername/Exploring-Survival-Patterns-on-the-Titanic.git
+git clone https://github.com/aarlapudi/Exploring-Survival-Patterns-on-the-Titanic.git
 
 
 Navigate into the project folder
