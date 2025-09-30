@@ -65,13 +65,13 @@ The notebook will open in your browser. Run each cell to see the data cleaning, 
 
 
 # Conclusion 
-## Summary of Survival Factors:
+### Summary of Survival Factors:
 The visualizations collectively suggest that financial status (Fare/Pclass) was a much stronger predictor of survival than age.
 
-# The Role of Age and Survival
+### The Role of Age and Survival
 Age was not a dominant predictor: The box plot of "Age Distribution by Survival" showed that the median age for both survivors and non-survivors was nearly identical (around 28-29 years).
 Outliers: While both groups had age outliers, there was a slightly wider range of ages and a greater number of older outliers among those who did not survive.
-# The Dominance of Fare and Class
+### The Dominance of Fare and Class
 Fare Correlates Strongly with Survival: The "Fare Distribution by Survival" box plot revealed a significant difference: the median fare paid by survivors (Group 1) was substantially higher (around 30) than the median fare paid by non-survivors (around 10-15).
 Fare vs. Age: The "Fare vs Age by Survival" scatter plot reinforced this, showing that at higher fares (above 100), the points representing survivors (orange) heavily outnumbered the non-survivors, regardless of the passenger's age.
 Fare and Class Hierarchy: The "Fare Distribution by Passenger Class" box plot confirmed the clear financial hierarchy: 1st Class paid the highest fares, followed by 2nd Class, with 3rd Class paying the lowest, which directly links fare and class to the previously observed survival advantage.
