@@ -1,33 +1,43 @@
 
-# Titanic Survival Analysis & Visualization
+# Exploring Survival Patterns on the Titanic
 
-
-This project explores the famous Titanic dataset using Python and data visualization techniques.
-The goal is to uncover relationships and trends that influenced passenger survival, with the help of exploratory data analysis (EDA).
+This project performs Exploratory Data Analysis (EDA) on the famous Titanic dataset to uncover key factors that influenced passenger survival. Using Python and data visualization libraries, we analyze relationships and trends between age, fare, class, gender, family size, and survival outcomes.
 
 # Project Overview
 
-The Titanic dataset provides details about passengers such as age, sex, ticket class, fare, family size, and survival status.
-Through a series of visualizations, we identify key survival patterns and gain insights into the factors that determined outcomes during the disaster.
+The goal of this analysis is to:
+
+Understand how different features relate to survival (Survived).
+
+Visualize distributions and patterns in the dataset.
+
+Identify key survival trends (e.g., class, gender, age, fare).
+
+Summarize findings in a structured and interpretable way.
 
 # Tools & Libraries Used
 
 Python 3.x
 
-Pandas → Data manipulation
+Pandas – data manipulation and cleaning
 
-Matplotlib → Plotting
+Matplotlib & Seaborn – data visualization
 
-Seaborn → Advanced visualizations
+Jupyter Notebook – interactive analysis
 
-# Visualizations Performed
+# Visualizations & Insights
 
-Histograms → Age & Fare distributions
+Key plots generated in this project include:
 
-Boxplots → Comparing age & fare with survival outcomes
+Histograms with KDE – Age and Fare distributions
 
-Scatterplots → Relationship between Age, Fare, and Survival
+Boxplots – Survival trends across Age, Fare, and Pclass
 
-Pairplot → Multi-variable relationships and survival trends
+Scatterplots – Fare vs Age by Survival
 
-Heatmap → Correlation analysis of numeric features
+Pairplot – Relationships among numerical features colored by Survival
+
+Heatmap – Correlation matrix of numerical variables
+
+
+
