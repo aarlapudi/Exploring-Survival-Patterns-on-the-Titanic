@@ -15,6 +15,9 @@ Identify key survival trends (e.g., class, gender, age, fare).
 
 Summarize findings in a structured and interpretable way.
 
+# Dataset
+Source https://www.kaggle.com/c/titanic/data?select=train.csv&utm_source=chatgpt.com
+
 # Tools & Libraries Used
 
 Python 3.x
